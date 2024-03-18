@@ -7,7 +7,7 @@ A report on all types of sales and insights of online platforms of a store.
 
 
 ## Problem Statement
-This dashboard helps the store to understand their sales insights morer accurate. It helps the store know if their sales are upto their expectattions or not. Through different aspects, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the average delivery and return times of product, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these unwanted scenarios.
+This dashboard helps the store to understand their sales insights more accurate. It helps the store know if their sales are upto their expectations or not. Through different aspects, they get to know their improvement area, & thus they can improve their services by identifying those areas. It also lets them know the average delivery and return times of product, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these unwanted scenarios.
 
 
 
